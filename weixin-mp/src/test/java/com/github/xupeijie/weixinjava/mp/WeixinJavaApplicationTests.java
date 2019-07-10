@@ -1,4 +1,4 @@
-package com.github.xupeijie.weixinjava;
+package com.github.xupeijie.weixinjava.mp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

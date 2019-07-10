@@ -1,4 +1,4 @@
-package com.github.xupeijie.weixinjava;
+package com.github.xupeijie.weixinjava.mp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
