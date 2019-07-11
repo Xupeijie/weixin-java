@@ -1,9 +1,7 @@
-package com.github.xupeijie.weixinjava.abstractFactory;
-
-import com.github.xupeijie.weixinjava.abstractFactory.abstractProduct.AirConditioner;
-import com.github.xupeijie.weixinjava.abstractFactory.abstractProduct.Television;
-import com.github.xupeijie.weixinjava.abstractFactory.abstractFactory.EFactory;
-import com.github.xupeijie.weixinjava.util.XMLUtil;
+import abstractFactory.EFactory;
+import abstractProduct.AirConditioner;
+import abstractProduct.Television;
+import util.XMLUtil;
 
 public class Client {
     public static void main(String[] args) {

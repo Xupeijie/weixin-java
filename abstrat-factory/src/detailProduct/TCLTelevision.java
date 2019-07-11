@@ -1,6 +1,6 @@
-package com.github.xupeijie.weixinjava.abstractFactory.detailProduct;
+package detailProduct;
 
-import com.github.xupeijie.weixinjava.abstractFactory.abstractProduct.Television;
+import abstractProduct.Television;
 
 public class TCLTelevision implements Television {
     @Override

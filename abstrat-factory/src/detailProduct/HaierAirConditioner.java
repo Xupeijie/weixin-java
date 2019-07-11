@@ -1,6 +1,6 @@
-package com.github.xupeijie.weixinjava.abstractFactory.detailProduct;
+package detailProduct;
 
-import com.github.xupeijie.weixinjava.abstractFactory.abstractProduct.AirConditioner;
+import abstractProduct.AirConditioner;
 
 public class HaierAirConditioner implements AirConditioner {
     @Override
