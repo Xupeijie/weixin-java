@@ -1,5 +1,6 @@
 weixin-java.iml
 /.idea/
+/classes/
 /weixin-mp/weixin-java-mp.iml
 /weixin-mp/target/
 /abstrat-factory/abstrat-factory.iml
